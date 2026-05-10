@@ -93,8 +93,8 @@ El archivo queda como historial permanente de lo discutido.
 
 ## Equipo
 
-- **Dwarlyn Urrutia** ([@dwarlyndut](https://github.com/dwarlyndut)) — Aprendiz, Colombia
-- **Manuel Correa** — Mentor, Big Tech USA
+- **Dwarlyn Urrutia** ([@dwarlyndut](https://github.com/dwarlyndut))
+- **Manuel Correa** — Mentor 
 
 ---
 
